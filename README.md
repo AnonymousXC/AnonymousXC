@@ -12,4 +12,6 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/AnonymousXC?style=for-the-badge)
 
 # Hi,
-I am a 15 years old game, app and web developer.
+
+
+I am a 15 years old game, app and web developer. I started coding two years ago. Being bored by playing game all the time, One Day I thought to make games. So, I started searching about it. I started by making games with no code softwares like Construct3, GDevelop and etc. Then, I got into godot and final my passion for coding began. And from then I learned about 7 programming and still learning new skills.
