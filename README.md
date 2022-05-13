@@ -20,4 +20,13 @@ I am a 15 years old game, app and web developer. I started coding two years ago.
 ## Languages I know
 - HTML, CSS and Javascript
 - GDScript
-- 
+- Python
+- Java
+- C++/C# (Arduino Uno)
+
+## Skills I Developed
+- Next Js
+- Electron Js
+- Godot 
+- Inkscape
+- Arduino Uno
