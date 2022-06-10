@@ -1,8 +1,8 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnonymousXC&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnonymousXC&theme=radical) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnonymousXC&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnonymousXC&theme=radical) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnonymousXC&theme=radical&utcOffset=8) \
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnonymousXC&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnonymousXC&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnonymousXC&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnonymousXC&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnonymousXC&theme=github_dark&utcOffset=8) \
 <a markdown="1" href="https://github.com/AnonymousXC">
   ![https://github.com/AnonymousXC](https://img.shields.io/github/followers/AnonymousXC?style=for-the-badge)
 </a>
