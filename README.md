@@ -56,11 +56,3 @@ I am a game, app and web developer. I started coding when I was 13 years old. Be
   <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&amp;logo=inkscape&amp;logoColor=080A13" alt="Inkscape">
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&amp;logo=Arduino&amp;logoColor=white" alt="Arduino">
 </div>
-
-## Last Note
-
-So, after making a lot of projects and coding alot. I think now its time to move on. Cause Its really difficult to keep moving when nobody is their. I have been working for a very long time and now, Its really difficult for me to keep moving. As their are no results till now, not even a single projects got atleast 10 stars or 1 fork on github and also theirs no contributions too. I always believe in not giving up but its really hard when things are not going your way for a very long time. Many a times I thought to give up but did'nt but now it's time. Everytime I thought of giving up theirs only one thought that one more time but that one more time did'nt go my way. Their are also very less followers of me on itch, github and etc. I thank my followers and to people who contributed me and supported me.
-
-Thanks.
-
-I really thought to upload all the projects whether completed or incompleted but I failed as my projects folder is of 269mb and even sublime merge cannot stage all file at onces and google drive failed too. Hope you find something useful from my repos.
