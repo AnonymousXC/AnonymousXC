@@ -1,3 +1,13 @@
+<div align="center" >
+  <image src="https://readme-typing-svg.herokuapp.com?font=&size=35&width=500&center=true&vCenter=true&color=f1fa8c&height=200&lines=I'am+a+Game+Developer...;I'am+an+App+Developer...;I'am+a+Web+Developer..."></img>
+</div>
+
+
+
+
+
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnonymousXC&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnonymousXC&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnonymousXC&theme=tokyonight) 
