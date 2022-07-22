@@ -3,22 +3,24 @@
 </div>
 
 
+<div align="center" >
+  <image src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnonymousXC&theme=tokyonight"></img>
+  <image src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnonymousXC&theme=tokyonight"></img>
+  <image src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnonymousXC&theme=tokyonight"></img>
+</div>
 
 
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnonymousXC&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnonymousXC&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnonymousXC&theme=tokyonight)\
-<span markdown="1" align="center">
+<span markdown="1">
   <a markdown="1" href="https://github.com/AnonymousXC">
-    ![https://github.com/AnonymousXC](https://img.shields.io/github/followers/AnonymousXC?style=for-the-badge)
+    <image src="https://img.shields.io/github/followers/AnonymousXC?style=for-the-badge"></img>
   </a>
   <a markdown="1" href="https://anonymousxc.github.io/ItsMeOnly/">
-    ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+    <image src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></img>
   </a>
-  ![GitHub User's stars](https://img.shields.io/github/stars/AnonymousXC?style=for-the-badge)
+   <image src="https://img.shields.io/github/stars/AnonymousXC?style=for-the-badge"></img>
   </span>
 
 # Hi👋,
