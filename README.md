@@ -10,10 +10,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnonymousXC&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnonymousXC&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnonymousXC&theme=tokyonight) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnonymousXC&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnonymousXC&theme=tokyonight&utcOffset=8) \
-<span markdown="1">
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnonymousXC&theme=tokyonight)\
+<span markdown="1" align="center">
   <a markdown="1" href="https://github.com/AnonymousXC">
     ![https://github.com/AnonymousXC](https://img.shields.io/github/followers/AnonymousXC?style=for-the-badge)
   </a>
