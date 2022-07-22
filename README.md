@@ -13,15 +13,6 @@
 
 
 
-<span markdown="1">
-  <a markdown="1" href="https://github.com/AnonymousXC">
-    <image src="https://img.shields.io/github/followers/AnonymousXC?style=for-the-badge"></img>
-  </a>
-  <a markdown="1" href="https://anonymousxc.github.io/ItsMeOnly/">
-    <image src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></img>
-  </a>
-   <image src="https://img.shields.io/github/stars/AnonymousXC?style=for-the-badge"></img>
-  </span>
 
 # Hi👋,
 
@@ -66,3 +57,15 @@ I am a game, app and web developer. I started coding when I was 13 years old. Be
   <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&amp;logo=inkscape&amp;logoColor=080A13" alt="Inkscape">
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&amp;logo=Arduino&amp;logoColor=white" alt="Arduino">
 </div>
+
+<br>
+
+<div markdown="1" align="center">
+  <a markdown="1" href="https://github.com/AnonymousXC">
+    <image src="https://img.shields.io/github/followers/AnonymousXC?style=for-the-badge"></img>
+  </a>
+  <a markdown="1" href="https://anonymousxc.github.io/ItsMeOnly/">
+    <image src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></img>
+  </a>
+   <image src="https://img.shields.io/github/stars/AnonymousXC?style=for-the-badge"></img>
+  </div>
