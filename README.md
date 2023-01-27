@@ -1,5 +1,5 @@
 <div align="center" >
-  <image src="https://readme-typing-svg.herokuapp.com?font=&size=35&width=500&center=true&vCenter=true&color=f1fa8c&height=200&lines=I'am+a+Game+Developer...;I'am+an+App+Developer...;I'am+a+Web+Developer..."></img>
+  <image src="https://readme-typing-svg.herokuapp.com?font=&size=35&width=700&center=true&vCenter=true&color=f1fa8c&height=200&lines=I'am+a+Full+Stack+Web+Developer...;I'am+a+Game+Developer...;I'am+an+App+Developer...;I'am+a+Web+Developer..."></img>
 </div>
 
 
@@ -47,6 +47,9 @@ I am a game, app and web developer. I started coding when I was 13 years old. Be
 - Godot 
 - Inkscape
 - Arduino Uno
+- Chakra UI
+- React Js
+- Node Js
 
 <br>
 
