@@ -4,7 +4,7 @@
 
 
 <div align="center" >
-  <image src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnonymousXC&theme=tokyonight"></img>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AnonymousXC&amp;theme=neon-dark&amp;border_radius=10&amp;" alt="GitHub Streak" width="75%"> <br>
   <image src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnonymousXC&theme=tokyonight"></img>
   <image src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnonymousXC&theme=tokyonight"></img>
 </div>
