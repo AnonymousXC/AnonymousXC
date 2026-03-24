@@ -1,7 +1,6 @@
 
 # 💫 About Me:
-I am a full stack web dev(previously, also did apps and games). I started coding when I was 13 years old. Being bored by playing game all the time, One Day I thought to make games. So, I started searching about it. I started by making games with no code softwares like Construct3, GDevelop and etc. Then, I got into godot and final my passion for coding began. And from then I learned more about the topics and still learning new skills.
-
+I am a full-stack web dev (previously, I also did apps and games). I started coding when I was 13 years old. Being bored by playing mobile games all the time, one day I thought about making games. So, I started working on it. I started by making games with no-code software like Construct3, GDevelop, etc. Then, I got into Godot, and finally, my passion for coding began. Starting from game development, I tried plugin development and explored many fields. And from then I learned about more topics and am still learning new skills. I also did Windows development with ElectronJS. I tried Flutter and React Native for mobile development. Finally, after 1.5 - 2 years of trying different tech and languages, I settled on full-stack development. Backend technologies, concepts, and system design fascinated me a lot. I also have a keen interest in low latency systems like high-frequency trading firms and event-driven architecture.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nthearcane) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19350153) 
